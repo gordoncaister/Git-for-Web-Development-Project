@@ -1,4 +1,5 @@
  https://codepen.io/gordoncaister/pen/JjdYoZP
+ 
     1. What is Semantic HTML?
 Semantic HTML is used to give meaning to the different parts of our websites.
     2. What is HTML used for? 
